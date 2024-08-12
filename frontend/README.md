@@ -27,11 +27,3 @@ npm run dev
 ```sh
 npm run build
 ```
-
-my_credentials:  
-user@user.com
-12345Testpassword  
-
-superuser:  
-admin@admin.com  
-12345Adminpassword  
